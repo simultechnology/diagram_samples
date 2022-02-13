@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T17:18:04.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="CjHnoAxzXDNKMcwotS8D" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T17:18:58.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="bIJIeDdJIoPpGMwe7FPp" version="16.5.6" type="github">
   <diagram id="q1HTLjOCkO-vaiK4o687" name="Page-1">
     <mxGraphModel dx="1298" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qb8hz02Ehm4GOwdTQ6r_-1" value="&lt;br&gt;		&lt;br&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;newbaskerville&amp;#34; ; font-size: 10pt&quot;&gt;&lt;br&gt;infrastructure provisioning&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div class=&quot;page&quot; title=&quot;Page 32&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;br&gt;				&lt;/div&gt;&lt;br&gt;			&lt;/div&gt;&lt;br&gt;		&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="120" height="120" as="geometry" />
+          <mxGeometry x="238" y="240" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Qb8hz02Ehm4GOwdTQ6r_-2" value="&lt;br&gt;&lt;span style=&quot;color: rgb(38 , 38 , 38) ; font-family: &amp;#34;newbaskerville&amp;#34; ; font-size: 10pt&quot;&gt;&lt;br&gt;&lt;br&gt;configuration management&lt;/span&gt;&lt;span style=&quot;font-size: 10pt ; font-family: &amp;#34;newbaskerville&amp;#34; ; color: rgb(38 , 38 , 38)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;div class=&quot;page&quot; title=&quot;Page 32&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;br&gt;				&lt;/div&gt;&lt;br&gt;			&lt;/div&gt;&lt;br&gt;		&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="450" y="240" width="120" height="120" as="geometry" />
+          <mxGeometry x="478" y="240" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
